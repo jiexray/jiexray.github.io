@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Rui Xia's home on the web!
+My name is Rui Xia. I am a PhD candidate in the department of computer science, Nanjing Univerisity. I am supervised by Professor Guihai Chen. I am interested in optimization problems in SDN and NFV systems.
+
+Now, I am focused on network measurement with probabilistic data structures, like bloom filter, sketch.
