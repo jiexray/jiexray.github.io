@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rui Xia's Mainpage"
+title                    : "Rui Xia"
 title_separator          : "-"
 name                     : &name "Rui Xia"
 description              : &description "A PhD Candidate in Nanjing University"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rui Xia's Mainpage"
+  name             : "Rui Xia"
   avatar           : "profile.png"
   bio              : "A PhD Candidate in CS, Nanjing University"
   location         : "Nanjing, China"
